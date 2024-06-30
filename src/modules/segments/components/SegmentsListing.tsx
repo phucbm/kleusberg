@@ -39,8 +39,8 @@ const SegmentsListing: React.FC = () => {
         }, []);
 
         return (
-            <div>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
                     {(segmentsData as Segment[]).map((segment) => {
                         segment.icon = loadedAssets[segment.code + '.svg'];
                         segment.image = loadedAssets[segment.code + '.webp'];

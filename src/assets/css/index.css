@@ -1,0 +1,25 @@
+@import "variables.css";
+@import "fonts.css";
+@import "typography.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* avoid elastic scroll on mac */
+body {
+    overscroll-behavior:none;
+}
+
+/* grid */
+.main {
+    min-height:100vh;
+}
+.grid {
+    background-image:linear-gradient(to right, rgba(var(--grid-color), .1) 1px, transparent 1px), linear-gradient(to bottom, rgba(var(--grid-color), .1) 1px, transparent 1px);
+    background-position:0 0;
+    background-size:var(--grid-size) var(--grid-size);
+
+    padding:calc(var(--grid-size) * 2);
+}
+

@@ -1,10 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.tsx'
-import './index.css'
+import './assets/css/index.css'
+import AppRouter from "./Router";
 
-ReactDOM.createRoot(document.getElementById('root')!).render(
+ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <React.StrictMode>
-        <App/>
+        <div className="main grid">
+            <AppRouter/>
+        </div>
     </React.StrictMode>,
 )

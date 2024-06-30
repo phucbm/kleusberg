@@ -1,0 +1,6 @@
+:root {
+    --base-font-size:16px;
+
+    --grid-color:0, 0, 0;
+    --grid-size:calc(100vw / 16);
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "code": "N100",
+    "description": "Endsegment",
+    "size": "7.20 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N110",
+    "description": "Middle segment",
+    "size": "7.20 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N120",
+    "description": "Initial segment",
+    "size": "7.20 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N130",
+    "description": "Initial segment open",
+    "size": "7.20 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N140",
+    "description": "Middle segment open",
+    "size": "7.20 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N150",
+    "description": "Segment closed",
+    "size": "7.20 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N200",
+    "description": "Endsegment",
+    "size": "6.00 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N210",
+    "description": "Middle segment",
+    "size": "6.00 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N220",
+    "description": "Initial segment",
+    "size": "6.00 x 3.00",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N300",
+    "description": "Endsegment",
+    "size": "7.20 x 3.60",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N310",
+    "description": "Segment closed",
+    "size": "7.20 x 3.60",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "N320",
+    "description": "Middle segment",
+    "size": "7.20 x 3.60",
+    "category": "Basic Segments"
+  },
+  {
+    "code": "V100",
+    "description": "Treppe 3L EG",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V110",
+    "description": "Treppe 3L MG",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V120",
+    "description": "Stairs 3L AND",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V150",
+    "description": "Aufzug + WC",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V160",
+    "description": "Aufzug + Pumi",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V170",
+    "description": "Elevator + Storage",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V300",
+    "description": "Treppe 2L EG",
+    "size": "7.20 x 3.60",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V310",
+    "description": "Treppe 2L MG",
+    "size": "7.20 x 3.60",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "V320",
+    "description": "Treppe 2L OG",
+    "size": "7.20 x 3.60",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "AT100",
+    "description": "External staircase two-flight",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "AT110",
+    "description": "Single flight external staircase",
+    "size": "7.20 x 3.00",
+    "category": "Stairs & Elevators"
+  },
+  {
+    "code": "S100",
+    "description": "Sanitary Girls",
+    "size": "7.20 x 3.00",
+    "category": "Sanitary & Technology"
+  },
+  {
+    "code": "S110",
+    "description": "Sanitary Boys",
+    "size": "7.20 x 3.00",
+    "category": "Sanitary & Technology"
+  },
+  {
+    "code": "S120",
+    "description": "Sanitary Barrier-free",
+    "size": "7.20 x 3.00",
+    "category": "Sanitary & Technology"
+  },
+  {
+    "code": "S130",
+    "description": "Sanitary Personnel",
+    "size": "7.20 x 3.00",
+    "category": "Sanitary & Technology"
+  },
+  {
+    "code": "T100",
+    "description": "Technik",
+    "size": "7.20 x 3.00",
+    "category": "Sanitary & Technology"
+  },
+  {
+    "code": "T110",
+    "description": "Technik/PuMi",
+    "size": "7.20 x 3.00",
+    "category": "Sanitary & Technology"
+  },
+  {
+    "code": "V130",
+    "description": "EARLY 3.0",
+    "size": "7.20 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V140",
+    "description": "Hauptpodest",
+    "size": "7.20 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V330",
+    "description": "Eingang 3.6",
+    "size": "7.20 x 3.60",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V400",
+    "description": "Hallway without wall",
+    "size": "3.00 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V410",
+    "description": "Flur Stirnwand",
+    "size": "3.00 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V420",
+    "description": "Corridor front and long wall",
+    "size": "3.00 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V430",
+    "description": "Hallway Longitudinal Wall",
+    "size": "3.00 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V500",
+    "description": "Hallway without wall",
+    "size": "4.20 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V510",
+    "description": "Hallway without wall",
+    "size": "4.20 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V600",
+    "description": "Hallway without wall",
+    "size": "5.40 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V610",
+    "description": "Hallway bulkhead",
+    "size": "5.40 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V700",
+    "description": "Hallway without wall",
+    "size": "3.60 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V710",
+    "description": "Flur Stirnwand",
+    "size": "3.60 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V720",
+    "description": "Corridor front and long wall",
+    "size": "3.60 x 3.00",
+    "category": "Entrance & Hallway"
+  },
+  {
+    "code": "V730",
+    "description": "Hallway Longitudinal Wall",
+    "size": "3.60 x 3.00",
+    "category": "Entrance & Hallway"
+  }
+]

@@ -5,7 +5,7 @@ import AppRouter from "./Router";
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <React.StrictMode>
-        <div className="main grid">
+        <div className="main k-grid">
             <AppRouter/>
         </div>
     </React.StrictMode>,

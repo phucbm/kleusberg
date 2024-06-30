@@ -1,10 +1,11 @@
 import React from 'react';
+import SegmentsListing from "../modules/segments/components/SegmentsListing";
 
 const Home = () => {
     return (
         <>
 
-            <div className="copy-headline">
+            <div className="copy-headline hidden">
                 <h1>44 MODUL-SEGMENTE</h1>
                 <h2>UNENDLICHE RAUMMÖGLICHKEITEN</h2>
                 <p>
@@ -18,6 +19,8 @@ const Home = () => {
                     FÜR DEN SCHULBAU
                 </div>
             </div>
+
+            <SegmentsListing/>
         </>
     );
 };

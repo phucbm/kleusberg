@@ -1,4 +1,3 @@
-import React from 'react';
 import {Segment} from "../types/Segment";
 import "../assets/css/SegmentItem.css";
 import {Loader} from "lucide-react";

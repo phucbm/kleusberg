@@ -1,4 +1,3 @@
-import React from 'react';
 import SegmentsListing from "../modules/segments/components/SegmentsListing";
 
 const Home = () => {

@@ -11,7 +11,7 @@ const loadAssets = async () => {
     const assetMap: { [key: string]: string } = {};
 
     const loadImagePromises = Object.keys(images).map(async (path) => {
-        const module = await images[path]();
+        const module = (await images[path]()) as { default: string };
         const assetName = path.split('/').pop();
         if (assetName) {
             assetMap[assetName] = module.default;
@@ -19,7 +19,7 @@ const loadAssets = async () => {
     });
 
     const loadSvgPromises = Object.keys(svgs).map(async (path) => {
-        const module = await svgs[path]();
+        const module = (await svgs[path]()) as { default: string };
         const assetName = path.split('/').pop();
         if (assetName) {
             assetMap[assetName] = module.default;
